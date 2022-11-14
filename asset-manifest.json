@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://alterxo.github.io/csb-di1hlu/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://alterxo.github.io/csb-di1hlu/static/js/main.464e3354.chunk.js",
+    "main.js.map": "https://alterxo.github.io/csb-di1hlu/static/js/main.464e3354.chunk.js.map",
+    "runtime-main.js": "https://alterxo.github.io/csb-di1hlu/static/js/runtime-main.b0a63d59.js",
+    "runtime-main.js.map": "https://alterxo.github.io/csb-di1hlu/static/js/runtime-main.b0a63d59.js.map",
+    "static/js/2.c7c04eac.chunk.js": "https://alterxo.github.io/csb-di1hlu/static/js/2.c7c04eac.chunk.js",
+    "static/js/2.c7c04eac.chunk.js.map": "https://alterxo.github.io/csb-di1hlu/static/js/2.c7c04eac.chunk.js.map",
+    "index.html": "https://alterxo.github.io/csb-di1hlu/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://alterxo.github.io/csb-di1hlu/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.c7c04eac.chunk.js.LICENSE.txt": "https://alterxo.github.io/csb-di1hlu/static/js/2.c7c04eac.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b0a63d59.js",
+    "static/js/2.c7c04eac.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.464e3354.chunk.js"
+  ]
+}
